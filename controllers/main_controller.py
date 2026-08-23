@@ -66,6 +66,9 @@ class MainController:
         # rows, the controller immediately overwrites them with real data.
         self._wrap_view_method("show_patients_view", self._on_show_patients)
         self._wrap_view_method("show_staff_view", self._on_show_staff)
+        
+        self.window.btn_patients.configure(command=self.window.show_patients_view)
+        self.window.btn_staff.configure(command=self.window.show_staff_view)
 
         self.window.add_dept_btn.configure(command=self._open_add_department_dialog)
         self.window.add_record_btn.configure(command=self._open_add_record_dialog)

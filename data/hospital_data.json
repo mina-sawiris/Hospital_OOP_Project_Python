@@ -20,6 +20,14 @@
                     "medical_record": "No known allergies",
                     "room": "N/A",
                     "status": "Observation"
+                },
+                {
+                    "patient_id": "PT-7515",
+                    "name": "Mariam Youssef",
+                    "age": 28,
+                    "medical_record": "equires regular checkup",
+                    "room": "4B-10",
+                    "status": "Observation"
                 }
             ],
             "staff": [
@@ -27,6 +35,11 @@
                     "name": "Dr. Sarah Sameer",
                     "age": 45,
                     "position": "Cardiologist"
+                },
+                {
+                    "name": "Dr.Magdi yocoub",
+                    "age": 52,
+                    "position": "Cardiothoracic Surgeon"
                 }
             ]
         },
@@ -40,6 +53,14 @@
                     "medical_record": "Asthma, seasonal",
                     "room": "3B-02",
                     "status": "Observation"
+                },
+                {
+                    "patient_id": "PT-5965",
+                    "name": "Youssef Mohamed",
+                    "age": 6,
+                    "medical_record": "Severe seasonal allergies, prescribed antihistamines",
+                    "room": "2P-08",
+                    "status": "Stable"
                 }
             ],
             "staff": [
@@ -47,13 +68,63 @@
                     "name": "Dr. Omar Hassan",
                     "age": 38,
                     "position": "Pediatrician"
+                },
+                {
+                    "name": "Dr. Salma Nabil",
+                    "age": 35,
+                    "position": "Pediatric Specialist"
                 }
             ]
         },
         {
             "name": "Surgery",
-            "patients": [],
-            "staff": []
+            "patients": [
+                {
+                    "patient_id": "PT-3916",
+                    "name": "Khaled Mostafa",
+                    "age": 40,
+                    "medical_record": "Scheduled for appendectomy, no known drug allergies",
+                    "room": "5C-02",
+                    "status": "Observation"
+                }
+            ],
+            "staff": [
+                {
+                    "name": "Dr. Karim Mahmoud",
+                    "age": 45,
+                    "position": "General Surgeon"
+                },
+                {
+                    "name": "Dr. Hisham Adel",
+                    "age": 49,
+                    "position": "Orthopedic and Trauma Surgeon"
+                }
+            ]
+        },
+        {
+            "name": "Neurology",
+            "patients": [
+                {
+                    "patient_id": "PT-9510",
+                    "name": "Samir Youssef",
+                    "age": 50,
+                    "medical_record": "Experiencing frequent migraines and vertigo",
+                    "room": "1A-04",
+                    "status": "Observation"
+                }
+            ],
+            "staff": [
+                {
+                    "name": "Dr. Tarek Hegazy",
+                    "age": 48,
+                    "position": "Neurology Consultant"
+                },
+                {
+                    "name": "Dr. Mona El-Sherif",
+                    "age": 41,
+                    "position": "Neurologist"
+                }
+            ]
         }
     ]
 }
