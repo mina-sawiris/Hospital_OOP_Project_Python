@@ -12,6 +12,14 @@
                     "medical_record": "No known allergies",
                     "room": "2A-05",
                     "status": "Stable"
+                },
+                {
+                    "patient_id": "PT-4825",
+                    "name": "Hoda",
+                    "age": 24,
+                    "medical_record": "No known allergies",
+                    "room": "N/A",
+                    "status": "Observation"
                 }
             ],
             "staff": [
@@ -41,6 +49,11 @@
                     "position": "Pediatrician"
                 }
             ]
+        },
+        {
+            "name": "Surgery",
+            "patients": [],
+            "staff": []
         }
     ]
 }
