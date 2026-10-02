@@ -37,4 +37,4 @@ Follow these steps to set up the project on your local machine.
 
 ### 2. Clone the Repository
 ```bash
-git clone [Insert your repository URL here]
+git clone https://github.com/mina-sawiris/Hospital_OOP_Project_Python.git
