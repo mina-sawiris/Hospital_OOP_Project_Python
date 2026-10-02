@@ -39,17 +39,7 @@ Follow these steps to set up the project on your local machine.
 
 Here is a look at the Graphical User Interface in action:
 
-<img width="1377" height="914" alt="1" src="https://github.com/user-attachments/assets/41118b0e-4e64-48d4-ad00-3b92ec49223e" />
 
-<img width="1377" height="914" alt="2" src="https://github.com/user-attachments/assets/bda0d5ad-cf85-4bfa-9465-3a80d016fc08" />
-
-<img width="1377" height="914" alt="3" src="https://github.com/user-attachments/assets/ff1a3390-9cde-4334-9ccd-768aee5eb76e" />
-
-<img width="1377" height="914" alt="4" src="https://github.com/user-attachments/assets/196245ae-798b-4d63-81b8-7c52c1b2e8c2" />
-
-<img width="1377" height="914" alt="5" src="https://github.com/user-attachments/assets/dab2db39-3593-48b1-90b1-0a88f2377abe" />
-
-<img width="1377" height="914" alt="6" src="https://github.com/user-attachments/assets/85c9bfeb-fb03-4e47-9243-2867d468ad00" />
 
 
 ### 2. Clone the Repository
