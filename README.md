@@ -45,8 +45,6 @@ Here is a look at the Graphical User Interface in action:
 
 <img width="1377" height="914" alt="3" src="https://github.com/user-attachments/assets/5a7ce06b-97e0-47f0-bc95-4751658e924c" />
 
-<img width="1377" height="914" alt="4" src="https://github.com/user-attachments/assets/9c161018-1717-4710-8776-988eed86b6e1" />
-
 <img width="1377" height="914" alt="4" src="https://github.com/user-attachments/assets/35cc2a9d-bd89-40f8-afd1-310014858796" />
 
 <img width="1377" height="914" alt="5" src="https://github.com/user-attachments/assets/2c36ef28-4393-442a-b962-bf7e9e31a84a" />
